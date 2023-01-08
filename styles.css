@@ -1,0 +1,10 @@
+body {
+  background-color: #81ecec;
+}
+
+#preview {
+  min-height: 450px;
+  border-radius: 15px;
+  background: #f1f2f6;
+  padding: 15px;
+}
